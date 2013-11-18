@@ -1,0 +1,160 @@
+﻿OS X Testing
+	Software
+		OS X
+			10.6.x
+			10.7.x
+			10.8.x
+			10.9.x
+		In-App Purchase
+			Allows Purchase
+			Restores Purchases
+		Crash Reporting
+		Analytics
+		Gestures
+		Memory Warnings
+		Data Saved Before Exit
+			Forced Quit
+			Standard Exit
+		Trial
+			Usage available through trial-end date
+			Trial ends properly
+				Allows no/limited functionality
+			Provides action
+			Switching system time ends trial
+				Setting Date Ahead of End-Date
+				Setting Date Behind Beginnign Date
+		Sandboxed
+	Network
+		Ethernet
+		Ethernet (USB Adapter)
+		Wi-Fi
+		Tethering
+			Bluetooth Tethering
+			Wi-Fi Tethering
+			USB Tethering
+		Network Link Conditioning Test
+			Error Messages
+			Non-blocking
+			First Launch Message
+	Audio/Video
+		AirPlay
+			AirPlay Audio
+			AirPlay video
+		Multiple Displays
+			Mission Control
+			Exposé
+		Full Screen Support
+		Ports
+			Line In
+			Line out
+		Other
+			Bluetooth Audio
+			USB Audio
+		Independent Audio Controls
+	Functionality
+		Communication
+			Email
+				Configured
+				Not Configured
+			Twitter
+				Configured
+				Not Configured
+			iMessage
+				Configured
+				Not Configured
+			AirDrop
+			Facebook
+				Not Configured
+				Configured
+			Flickr
+				Not Configured
+				Configured
+		Updates
+			MAS
+			Sparkle
+		Web Views
+			Drag and Drop
+			Full Navigation
+		Table Views
+			Allows Reordering
+			Allows Sorting
+		Secure Info
+			Keychain Access
+		Save
+			Save Before Exit
+			Undo/Redo
+		iCloud Data
+			Documents
+				Folders
+				Save
+				Delete
+			UserDefaults
+				Synced
+				Doesn't Overwrite
+			Core Data
+				Syncs
+				Doesn't Overwrite
+			Configured / Not Configured
+		Standard Shortcuts
+			Select All
+			Cut / Copy / Paste
+		Privacy
+			Location Services
+			Contacts
+			Calendars
+			Reminders
+			Accessibility
+	UI
+		Smooth Animations
+			Non-blocking
+		Accessibility
+			VoiceOver
+			Screen Magnification
+			Keyboard Button Access
+			Accessibility Labels
+			Menubar app
+			Other Events
+				Gestures
+				Keyboard Shortcuts
+		Menubar app
+			Exits
+			Non-blocking
+			Provides Utility
+		Notification Center
+			Clears notifications
+			Overuse of Notifications
+		Window
+			Resize
+			Close
+			Minimize
+			Maximize
+			Full-screen
+		Dock
+			Click to show window
+			Icon Visibilty
+		Scrollbars
+	Hardware
+		Notebook
+			MacBook Air
+			MacBook Pro (Retina)
+			MacBook Pro (Hi-Res)
+			MacBook Pro
+		Desktop
+			Mac Pro
+			iMac
+			Mac mini
+	Data
+		Preserved through data model changes
+		Time Settings
+			Properly display all time zones
+			Switching between time zones
+			Relative time displays
+			System time too fast/slow
+			24 hour clock
+		Internationalization
+			Long translated strings fit
+			Supported Languages?
+			Localization text in images
+			Region Formats
+		Input
+			Dictation

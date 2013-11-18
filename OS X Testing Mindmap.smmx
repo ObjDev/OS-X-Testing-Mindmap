@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSX" gen-version="1.7.5">
+    <mindmap>
+        <meta>
+            <guid guid="2CFF531F5BB32E78277D8D15"></guid>
+            <title text="OS X Testing"></title>
+            <style key="system.bright-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="392.22" y="254.02"></scrollstate>
+            <selection type="node" id="159"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" x="1040.36" y="518.85" palette="1" colorinfo="1" text="OS X Testing"></topic>
+            <topic id="1" parent="0" x="1403.66" y="618.64" palette="2" colorinfo="2" text="Software"></topic>
+            <topic id="2" parent="1" x="1202.79" y="533.28" text="OS X"></topic>
+            <topic id="3" parent="2" x="1142.93" y="515.30" text="10.6.x"></topic>
+            <topic id="4" parent="2" x="1173.68" y="484.60" text="10.7.x"></topic>
+            <topic id="5" parent="2" x="1208.14" y="458.93" text="10.8.x"></topic>
+            <topic id="6" parent="2" x="1244.72" y="484.81" text="10.9.x"></topic>
+            <topic id="7" parent="1" x="1380.24" y="460.72" text="In-App Purchase"></topic>
+            <topic id="8" parent="7" x="1272.43" y="426.55" text="Allows Purchase"></topic>
+            <topic id="9" parent="7" x="1329.16" y="399.65" text="Restores Purchases"></topic>
+            <topic id="10" parent="1" x="1321.04" y="491.61" text="Crash Reporting"></topic>
+            <topic id="11" parent="1" x="1291.73" y="526.10" text="Analytics"></topic>
+            <topic id="12" parent="1" x="1428.24" y="501.07" text="Gestures"></topic>
+            <topic id="13" parent="1" x="1493.41" y="591.06" text="Memory Warnings"></topic>
+            <topic id="14" parent="1" x="1230.73" y="650.47" text="Data Saved Before Exit"></topic>
+            <topic id="15" parent="14" x="1237.77" y="615.31" text="Forced Quit"></topic>
+            <topic id="16" parent="14" x="1158.50" y="593.48" text="Standard Exit"></topic>
+            <topic id="17" parent="1" x="1439.43" y="663.52" text="Trial"></topic>
+            <topic id="18" parent="17" x="1589.49" y="646.05" text="Usage available through trial-end date"></topic>
+            <topic id="19" parent="17" x="1546.96" y="681.23" text="Trial ends properly"></topic>
+            <topic id="20" parent="19" x="1715.17" y="680.17" text="Allows no/limited functionality"></topic>
+            <topic id="21" parent="17" x="1539.48" y="720.03" text="Provides action"></topic>
+            <topic id="22" parent="17" x="1533.01" y="767.87" text="Switching system time ends trial"></topic>
+            <topic id="23" parent="22" x="1687.95" y="816.21" text="Setting Date Ahead of End-Date"></topic>
+            <topic id="24" parent="22" x="1650.92" y="850.45" text="Setting Date Behind Beginnign Date"></topic>
+            <topic id="25" parent="1" x="1354.94" y="682.41" text="Sandboxed"></topic>
+            <topic id="26" parent="0" x="838.62" y="323.22" palette="3" colorinfo="3" text="Network"></topic>
+            <topic id="27" parent="26" x="605.61" y="276.29" text="Ethernet"></topic>
+            <topic id="28" parent="26" x="572.53" y="312.46" text="Ethernet (USB Adapter)"></topic>
+            <topic id="29" parent="26" x="610.98" y="244.75" text="Wi-Fi"></topic>
+            <topic id="30" parent="26" x="679.68" y="372.64" text="Tethering"></topic>
+            <topic id="31" parent="30" x="617.00" y="435.43" text="Bluetooth Tethering"></topic>
+            <topic id="32" parent="30" x="576.72" y="400.82" text="Wi-Fi Tethering"></topic>
+            <topic id="33" parent="30" x="541.50" y="363.31" text="USB Tethering"></topic>
+            <topic id="34" parent="26" x="836.62" y="394.00" text="Network Link Conditioning Test"></topic>
+            <topic id="35" parent="34" x="918.83" y="466.26" text="Error Messages"></topic>
+            <topic id="36" parent="34" x="749.34" y="463.73" text="Non-blocking"></topic>
+            <topic id="37" parent="34" x="833.76" y="495.48" text="First Launch Message"></topic>
+            <topic id="38" parent="0" x="776.46" y="716.26" palette="4" colorinfo="4" text="Audio/Video"></topic>
+            <topic id="39" parent="38" x="668.88" y="606.11" text="AirPlay"></topic>
+            <topic id="40" parent="39" x="571.82" y="587.22" text="AirPlay Audio"></topic>
+            <topic id="41" parent="39" x="571.61" y="619.29" text="AirPlay video"></topic>
+            <topic id="42" parent="38" x="660.20" y="665.97" text="Multiple Displays"></topic>
+            <topic id="43" parent="42" x="539.29" y="662.84" text="Mission Control"></topic>
+            <topic id="44" parent="42" x="522.92" y="697.67" text="Exposé"></topic>
+            <topic id="45" parent="38" x="627.21" y="717.06" text="Full Screen Support"></topic>
+            <topic id="46" parent="38" x="704.35" y="785.14" text="Ports"></topic>
+            <topic id="47" parent="46" x="632.26" y="811.25" text="Line In"></topic>
+            <topic id="48" parent="46" x="629.87" y="844.96" text="Line out"></topic>
+            <topic id="49" parent="38" x="777.51" y="651.56" text="Other"></topic>
+            <topic id="50" parent="49" x="736.75" y="581.17" text="Bluetooth Audio"></topic>
+            <topic id="51" parent="49" x="812.32" y="608.76" text="USB Audio"></topic>
+            <topic id="52" parent="38" x="571.07" y="767.91" text="Independent Audio Controls"></topic>
+            <topic id="53" parent="0" x="989.88" y="386.66" palette="5" colorinfo="5" text="Functionality"></topic>
+            <topic id="54" parent="53" x="892.32" y="197.16" text="Communication"></topic>
+            <topic id="55" parent="54" x="812.10" y="197.04" text="Email"></topic>
+            <topic id="56" parent="55" x="722.76" y="196.53" text="Configured"></topic>
+            <topic id="57" parent="55" x="731.42" y="163.79" text="Not Configured"></topic>
+            <topic id="58" parent="54" x="842.73" y="148.36" text="Twitter"></topic>
+            <topic id="59" parent="58" x="723.46" y="122.04" text="Configured"></topic>
+            <topic id="60" parent="58" x="746.92" y="87.76" text="Not Configured"></topic>
+            <topic id="61" parent="54" x="870.03" y="103.20" text="iMessage"></topic>
+            <topic id="62" parent="61" x="780.49" y="48.52" text="Configured"></topic>
+            <topic id="63" parent="61" x="817.21" y="15.82" text="Not Configured"></topic>
+            <topic id="64" parent="54" x="917.06" y="1.22" text="AirDrop"></topic>
+            <topic id="65" parent="54" x="955.33" y="101.00" text="Facebook"></topic>
+            <topic id="66" parent="65" x="1015.14" y="31.03" text="Not Configured"></topic>
+            <topic id="67" parent="65" x="1048.52" y="65.35" text="Configured"></topic>
+            <topic id="68" parent="54" x="983.67" y="145.30" text="Flickr"></topic>
+            <topic id="69" parent="68" x="1058.82" y="105.91" text="Not Configured"></topic>
+            <topic id="70" parent="68" x="1065.99" y="150.96" text="Configured"></topic>
+            <topic id="71" parent="53" x="1072.86" y="430.28" text="Updates"></topic>
+            <topic id="72" parent="71" x="1124.08" y="458.66" text="MAS"></topic>
+            <topic id="73" parent="71" x="1074.24" y="476.32" text="Sparkle"></topic>
+            <topic id="74" parent="53" x="1092.26" y="393.77" text="Web Views"></topic>
+            <topic id="75" parent="74" x="1157.53" y="360.81" text="Drag and Drop"></topic>
+            <topic id="76" parent="74" x="1183.24" y="390.43" text="Full Navigation"></topic>
+            <topic id="77" parent="53" x="1136.30" y="326.62" text="Table Views"></topic>
+            <topic id="78" parent="77" x="1254.66" y="304.01" text="Allows Reordering"></topic>
+            <topic id="79" parent="77" x="1250.10" y="336.04" text="Allows Sorting"></topic>
+            <topic id="80" parent="53" x="1055.94" y="240.24" text="Secure Info"></topic>
+            <topic id="81" parent="80" x="1092.02" y="191.41" text="Keychain Access"></topic>
+            <topic id="82" parent="53" x="1152.23" y="152.52" text="Save"></topic>
+            <topic id="83" parent="82" x="1139.21" y="65.40" text="Save Before Exit"></topic>
+            <topic id="84" parent="82" x="1182.11" y="94.32" text="Undo/Redo"></topic>
+            <topic id="85" parent="53" x="1240.32" y="65.06" text="iCloud Data"></topic>
+            <topic id="86" parent="85" x="1191.31" y="21.86" text="Documents"></topic>
+            <topic id="87" parent="86" x="1154.68" y="-54.29" text="Folders"></topic>
+            <topic id="88" parent="86" x="1122.99" y="-27.29" text="Save"></topic>
+            <topic id="89" parent="86" x="1212.65" y="-53.03" text="Delete"></topic>
+            <topic id="90" parent="85" x="1290.41" y="20.12" text="UserDefaults"></topic>
+            <topic id="91" parent="90" x="1273.48" y="-31.24" text="Synced"></topic>
+            <topic id="92" parent="90" x="1318.95" y="-61.52" text="Doesn't Overwrite"></topic>
+            <topic id="93" parent="85" x="1389.99" y="21.20" text="Core Data"></topic>
+            <topic id="94" parent="93" x="1352.34" y="-27.18" text="Syncs"></topic>
+            <topic id="95" parent="93" x="1432.87" y="-46.19" text="Doesn't Overwrite"></topic>
+            <topic id="96" parent="85" x="1242.17" y="-94.91" text="Configured / Not Configured"></topic>
+            <topic id="97" parent="53" x="1300.62" y="104.40" text="Standard Shortcuts"></topic>
+            <topic id="98" parent="97" x="1405.02" y="58.31" text="Select All"></topic>
+            <topic id="99" parent="97" x="1441.32" y="90.34" text="Cut / Copy / Paste"></topic>
+            <topic id="100" parent="53" x="618.02" y="91.53" text="Privacy"></topic>
+            <topic id="101" parent="100" x="535.17" y="125.65" text="Location Services"></topic>
+            <topic id="102" parent="100" x="513.10" y="86.17" text="Contacts"></topic>
+            <topic id="103" parent="100" x="516.47" y="48.99" text="Calendars"></topic>
+            <topic id="104" parent="100" x="576.84" y="18.18" text="Reminders"></topic>
+            <topic id="105" parent="100" x="669.08" y="19.90" text="Accessibility"></topic>
+            <topic id="106" parent="0" x="1351.39" y="369.09" palette="6" colorinfo="6" text="UI"></topic>
+            <topic id="107" parent="106" x="1474.31" y="211.88" text="Smooth Animations"></topic>
+            <topic id="108" parent="107" x="1598.54" y="162.64" text="Non-blocking"></topic>
+            <topic id="109" parent="106" x="1464.41" y="273.35" text="Accessibility"></topic>
+            <topic id="110" parent="109" x="1606.68" y="239.45" text="VoiceOver"></topic>
+            <topic id="111" parent="109" x="1632.10" y="279.36" text="Screen Magnification"></topic>
+            <topic id="112" parent="109" x="1642.01" y="316.76" text="Keyboard Button Access"></topic>
+            <topic id="113" parent="109" x="1636.45" y="352.10" text="Accessibility Labels"></topic>
+            <topic id="114" parent="109" x="1624.21" y="385.78" text="Menubar app"></topic>
+            <topic id="115" parent="109" x="1613.18" y="205.37" text="Other Events"></topic>
+            <topic id="116" parent="115" x="1711.76" y="180.65" text="Gestures"></topic>
+            <topic id="117" parent="115" x="1736.68" y="214.14" text="Keyboard Shortcuts"></topic>
+            <topic id="118" parent="106" x="1466.50" y="349.48" text="Menubar app"></topic>
+            <topic id="119" parent="118" x="1559.17" y="394.87" text="Exits"></topic>
+            <topic id="120" parent="118" x="1565.03" y="426.12" text="Non-blocking"></topic>
+            <topic id="121" parent="118" x="1543.43" y="456.40" text="Provides Utility"></topic>
+            <topic id="122" parent="106" x="1351.77" y="270.91" text="Notification Center"></topic>
+            <topic id="123" parent="122" x="1290.76" y="241.03" text="Clears notifications"></topic>
+            <topic id="124" parent="122" x="1347.97" y="212.92" text="Overuse of Notifications"></topic>
+            <topic id="125" parent="106" x="1585.26" y="497.14" text="Window"></topic>
+            <topic id="126" parent="125" x="1642.24" y="431.79" text="Resize"></topic>
+            <topic id="127" parent="125" x="1650.15" y="464.23" text="Close"></topic>
+            <topic id="128" parent="125" x="1667.52" y="493.96" text="Minimize"></topic>
+            <topic id="129" parent="125" x="1697.07" y="522.48" text="Maximize"></topic>
+            <topic id="130" parent="125" x="1720.23" y="551.80" text="Full-screen"></topic>
+            <topic id="131" parent="106" x="1594.36" y="526.17" text="Dock"></topic>
+            <topic id="132" parent="131" x="1746.58" y="583.42" text="Click to show window"></topic>
+            <topic id="133" parent="131" x="1728.64" y="614.03" text="Icon Visibilty"></topic>
+            <topic id="134" parent="106" x="1591.86" y="565.15" text="Scrollbars"></topic>
+            <topic id="135" parent="0" x="691.82" y="523.60" palette="7" colorinfo="7" text="Hardware"></topic>
+            <topic id="136" parent="135" x="579.21" y="482.11" text="Notebook"></topic>
+            <topic id="137" parent="136" x="445.81" y="440.64" text="MacBook Air"></topic>
+            <topic id="138" parent="136" x="422.44" y="373.78" text="MacBook Pro (Retina)"></topic>
+            <topic id="139" parent="136" x="420.18" y="340.48" text="MacBook Pro (Hi-Res)"></topic>
+            <topic id="140" parent="136" x="441.99" y="408.89" text="MacBook Pro"></topic>
+            <topic id="141" parent="135" x="577.04" y="523.73" text="Desktop"></topic>
+            <topic id="142" parent="141" x="460.37" y="520.82" text="Mac Pro"></topic>
+            <topic id="143" parent="141" x="467.33" y="550.80" text="iMac"></topic>
+            <topic id="144" parent="141" x="457.24" y="486.61" text="Mac mini"></topic>
+            <topic id="145" parent="0" x="1040.44" y="663.91" palette="6" colorinfo="6" text="Data"></topic>
+            <topic id="146" parent="145" x="1211.21" y="719.28" text="Preserved through data model changes"></topic>
+            <topic id="147" parent="145" x="1124.34" y="797.28" text="Time Settings"></topic>
+            <topic id="148" parent="147" x="1202.44" y="870.92" text="Properly display all time zones"></topic>
+            <topic id="149" parent="147" x="1298.00" y="838.60" text="Switching between time zones"></topic>
+            <topic id="150" parent="147" x="1338.63" y="805.81" text="Relative time displays"></topic>
+            <topic id="151" parent="147" x="1335.20" y="768.85" text="System time too fast/slow"></topic>
+            <topic id="152" parent="147" x="1102.30" y="903.74" text="24 hour clock"></topic>
+            <topic id="153" parent="145" x="925.45" y="724.06" text="Internationalization"></topic>
+            <topic id="154" parent="153" x="870.18" y="808.38" text="Long translated strings fit"></topic>
+            <topic id="155" parent="153" x="1009.00" y="813.56" text="Supported Languages?"></topic>
+            <topic id="156" parent="153" x="858.09" y="844.56" text="Localization text in images"></topic>
+            <topic id="157" parent="153" x="1012.68" y="846.84" text="Region Formats"></topic>
+            <topic id="158" parent="145" x="980.62" y="636.19" text="Input"></topic>
+            <topic id="159" parent="158" x="932.62" y="667.03" text="Dictation"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>

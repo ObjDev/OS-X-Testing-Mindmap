@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="1.0">
+    <head>
+        <title>OS X Testing</title>
+    </head>
+    <body>
+        <outline text="OS X Testing">
+            <outline text="Software">
+                <outline text="OS X">
+                    <outline text="10.6.x"></outline>
+                    <outline text="10.7.x"></outline>
+                    <outline text="10.8.x"></outline>
+                    <outline text="10.9.x"></outline>
+                </outline>
+                <outline text="In-App Purchase">
+                    <outline text="Allows Purchase"></outline>
+                    <outline text="Restores Purchases"></outline>
+                </outline>
+                <outline text="Crash Reporting"></outline>
+                <outline text="Analytics"></outline>
+                <outline text="Gestures"></outline>
+                <outline text="Memory Warnings"></outline>
+                <outline text="Data Saved Before Exit">
+                    <outline text="Forced Quit"></outline>
+                    <outline text="Standard Exit"></outline>
+                </outline>
+                <outline text="Trial">
+                    <outline text="Usage available through trial-end date"></outline>
+                    <outline text="Trial ends properly">
+                        <outline text="Allows no/limited functionality"></outline>
+                    </outline>
+                    <outline text="Provides action"></outline>
+                    <outline text="Switching system time ends trial">
+                        <outline text="Setting Date Ahead of End-Date"></outline>
+                        <outline text="Setting Date Behind Beginnign Date"></outline>
+                    </outline>
+                </outline>
+                <outline text="Sandboxed"></outline>
+            </outline>
+            <outline text="Network">
+                <outline text="Ethernet"></outline>
+                <outline text="Ethernet (USB Adapter)"></outline>
+                <outline text="Wi-Fi"></outline>
+                <outline text="Tethering">
+                    <outline text="Bluetooth Tethering"></outline>
+                    <outline text="Wi-Fi Tethering"></outline>
+                    <outline text="USB Tethering"></outline>
+                </outline>
+                <outline text="Network Link Conditioning Test">
+                    <outline text="Error Messages"></outline>
+                    <outline text="Non-blocking"></outline>
+                    <outline text="First Launch Message"></outline>
+                </outline>
+            </outline>
+            <outline text="Audio/Video">
+                <outline text="AirPlay">
+                    <outline text="AirPlay Audio"></outline>
+                    <outline text="AirPlay video"></outline>
+                </outline>
+                <outline text="Multiple Displays">
+                    <outline text="Mission Control"></outline>
+                    <outline text="Exposé"></outline>
+                </outline>
+                <outline text="Full Screen Support"></outline>
+                <outline text="Ports">
+                    <outline text="Line In"></outline>
+                    <outline text="Line out"></outline>
+                </outline>
+                <outline text="Other">
+                    <outline text="Bluetooth Audio"></outline>
+                    <outline text="USB Audio"></outline>
+                </outline>
+                <outline text="Independent Audio Controls"></outline>
+            </outline>
+            <outline text="Functionality">
+                <outline text="Communication">
+                    <outline text="Email">
+                        <outline text="Configured"></outline>
+                        <outline text="Not Configured"></outline>
+                    </outline>
+                    <outline text="Twitter">
+                        <outline text="Configured"></outline>
+                        <outline text="Not Configured"></outline>
+                    </outline>
+                    <outline text="iMessage">
+                        <outline text="Configured"></outline>
+                        <outline text="Not Configured"></outline>
+                    </outline>
+                    <outline text="AirDrop"></outline>
+                    <outline text="Facebook">
+                        <outline text="Not Configured"></outline>
+                        <outline text="Configured"></outline>
+                    </outline>
+                    <outline text="Flickr">
+                        <outline text="Not Configured"></outline>
+                        <outline text="Configured"></outline>
+                    </outline>
+                </outline>
+                <outline text="Updates">
+                    <outline text="MAS"></outline>
+                    <outline text="Sparkle"></outline>
+                </outline>
+                <outline text="Web Views">
+                    <outline text="Drag and Drop"></outline>
+                    <outline text="Full Navigation"></outline>
+                </outline>
+                <outline text="Table Views">
+                    <outline text="Allows Reordering"></outline>
+                    <outline text="Allows Sorting"></outline>
+                </outline>
+                <outline text="Secure Info">
+                    <outline text="Keychain Access"></outline>
+                </outline>
+                <outline text="Save">
+                    <outline text="Save Before Exit"></outline>
+                    <outline text="Undo/Redo"></outline>
+                </outline>
+                <outline text="iCloud Data">
+                    <outline text="Documents">
+                        <outline text="Folders"></outline>
+                        <outline text="Save"></outline>
+                        <outline text="Delete"></outline>
+                    </outline>
+                    <outline text="UserDefaults">
+                        <outline text="Synced"></outline>
+                        <outline text="Doesn't Overwrite"></outline>
+                    </outline>
+                    <outline text="Core Data">
+                        <outline text="Syncs"></outline>
+                        <outline text="Doesn't Overwrite"></outline>
+                    </outline>
+                    <outline text="Configured / Not Configured"></outline>
+                </outline>
+                <outline text="Standard Shortcuts">
+                    <outline text="Select All"></outline>
+                    <outline text="Cut / Copy / Paste"></outline>
+                </outline>
+                <outline text="Privacy">
+                    <outline text="Location Services"></outline>
+                    <outline text="Contacts"></outline>
+                    <outline text="Calendars"></outline>
+                    <outline text="Reminders"></outline>
+                    <outline text="Accessibility"></outline>
+                </outline>
+            </outline>
+            <outline text="UI">
+                <outline text="Smooth Animations">
+                    <outline text="Non-blocking"></outline>
+                </outline>
+                <outline text="Accessibility">
+                    <outline text="VoiceOver"></outline>
+                    <outline text="Screen Magnification"></outline>
+                    <outline text="Keyboard Button Access"></outline>
+                    <outline text="Accessibility Labels"></outline>
+                    <outline text="Menubar app"></outline>
+                    <outline text="Other Events">
+                        <outline text="Gestures"></outline>
+                        <outline text="Keyboard Shortcuts"></outline>
+                    </outline>
+                </outline>
+                <outline text="Menubar app">
+                    <outline text="Exits"></outline>
+                    <outline text="Non-blocking"></outline>
+                    <outline text="Provides Utility"></outline>
+                </outline>
+                <outline text="Notification Center">
+                    <outline text="Clears notifications"></outline>
+                    <outline text="Overuse of Notifications"></outline>
+                </outline>
+                <outline text="Window">
+                    <outline text="Resize"></outline>
+                    <outline text="Close"></outline>
+                    <outline text="Minimize"></outline>
+                    <outline text="Maximize"></outline>
+                    <outline text="Full-screen"></outline>
+                </outline>
+                <outline text="Dock">
+                    <outline text="Click to show window"></outline>
+                    <outline text="Icon Visibilty"></outline>
+                </outline>
+                <outline text="Scrollbars"></outline>
+            </outline>
+            <outline text="Hardware">
+                <outline text="Notebook">
+                    <outline text="MacBook Air"></outline>
+                    <outline text="MacBook Pro (Retina)"></outline>
+                    <outline text="MacBook Pro (Hi-Res)"></outline>
+                    <outline text="MacBook Pro"></outline>
+                </outline>
+                <outline text="Desktop">
+                    <outline text="Mac Pro"></outline>
+                    <outline text="iMac"></outline>
+                    <outline text="Mac mini"></outline>
+                </outline>
+            </outline>
+            <outline text="Data">
+                <outline text="Preserved through data model changes"></outline>
+                <outline text="Time Settings">
+                    <outline text="Properly display all time zones"></outline>
+                    <outline text="Switching between time zones"></outline>
+                    <outline text="Relative time displays"></outline>
+                    <outline text="System time too fast/slow"></outline>
+                    <outline text="24 hour clock"></outline>
+                </outline>
+                <outline text="Internationalization">
+                    <outline text="Long translated strings fit"></outline>
+                    <outline text="Supported Languages?"></outline>
+                    <outline text="Localization text in images"></outline>
+                    <outline text="Region Formats"></outline>
+                </outline>
+                <outline text="Input">
+                    <outline text="Dictation"></outline>
+                </outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
